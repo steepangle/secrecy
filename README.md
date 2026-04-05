@@ -6,13 +6,12 @@ The downloadable PDFs look like this:
 
 <img src="https://raw.githubusercontent.com/steepangle/secrecy/refs/heads/main/media/coversheet-lvl4.jpg" alt="coversheet level 4" width="300"/>
 
-The blank space is intended for **additional information**, like shown in the example below.
+The blank space is intended for **additional information**, like shown in the example below.   
+We recommend a Sans-Serif font, idealy *Calibri* with *24pt* for the heading and *20pt* for the body text. 
 
 <img src="https://raw.githubusercontent.com/steepangle/secrecy/refs/heads/main/media/example-coversheet.jpg" alt="example coversheet" width="300"/>
 
-We recommend [Xournal++](https://xournalpp.github.io/) but in general every **PDF editor** works for this.
-
-
+We recommend [Xournal++](https://xournalpp.github.io/) but in general every **PDF editor** should work just fine.
 
 
 ## Folder Structure
