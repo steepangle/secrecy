@@ -1,26 +1,35 @@
 # Coversheets for Classified Information
 
-The steepangle AG provides these coversheets for all companys on the server.
+The steepangle AG provides these coversheets for all companies on the server.  
+The downloadable PDFs look like this:
+
+<img src="https://raw.githubusercontent.com/steepangle/secrecy/refs/heads/main/media/coversheet-lvl4.jpg" alt="coversheet level 4" width="300"/>
+
+The blank space is intended for additional information, like shown in the example below.
+
+<img src="https://raw.githubusercontent.com/steepangle/secrecy/refs/heads/main/media/example-coversheet.jpg" alt="example coversheet" width="300"/>
+
+We recommend [Xournal++](https://xournalpp.github.io/) but in general every PDF editor works for this.
+
+
+
 
 ## Folder Structure
-```cpp
+```sh
 .  
-├── backups  
-│   ├── all-of-create  
-│   └── fabric-1.21.10  
-├── mc-server  
-│   ├── all-of-create  
-│   └── fabric-1.21.10  
-├── mc-world  
-│   ├── cashmoney  
-│   └── trinker  
-├── whole-backup  
-│   ├── 123  
-│   └── fabric-1.21.10  
-└── MINECRAFT.md  
+├── media  
+│   ├── coversheet-lvl4.jpg  
+│   └── example-coversheet.jpg  
+├── single-pages  
+│   ├── coversheet-lvl1.pdf  
+│   ├── coversheet-lvl2.pdf  
+│   ├── coversheet-lvl3.pdf  
+│   ├── coversheet-lvl4.pdf  
+│   ├── coversheet-lvl5.pdf  
+│   └── coversheet-lvl6.pdf  
+├── all-coversheets.zip  
+├── classification table.pdf  
+├── cover sheets.pdf  
+├── LICENCE  
+└── README.md  
 ```
-
-We recommend:
-[Xourmal++](https://xournalpp.github.io/)
-
-![Coversheet](https://github.com/steepangle/secrecy/media/example-coversheet.jpg)
