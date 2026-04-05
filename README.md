@@ -1,15 +1,16 @@
 # Coversheets for Classified Information
 
 The steepangle AG provides these coversheets for all companies on the server.  
+   
 The downloadable PDFs look like this:
 
 <img src="https://raw.githubusercontent.com/steepangle/secrecy/refs/heads/main/media/coversheet-lvl4.jpg" alt="coversheet level 4" width="300"/>
 
-The blank space is intended for additional information, like shown in the example below.
+The blank space is intended for **additional information**, like shown in the example below.
 
 <img src="https://raw.githubusercontent.com/steepangle/secrecy/refs/heads/main/media/example-coversheet.jpg" alt="example coversheet" width="300"/>
 
-We recommend [Xournal++](https://xournalpp.github.io/) but in general every PDF editor works for this.
+We recommend [Xournal++](https://xournalpp.github.io/) but in general every **PDF editor** works for this.
 
 
 
